@@ -1,9 +1,9 @@
 class Mdpaper < Formula
   desc "Markdown-to-PDF CLI with a bundled LaTeX engine"
   homepage "https://github.com/nico-bachner/projects/tree/main/packages/mdpaper"
-  url "https://github.com/nico-bachner/projects/releases/download/mdpaper-v2.3.1/mdpaper-darwin-arm64.tar.gz"
-  version "2.3.1"
-  sha256 "7487832d4a5866255f8c8eb87c69f997c09a52b14c2828984df7f43ff2f61b56"
+  url "https://github.com/nico-bachner/projects/releases/download/mdpaper-v2.4.0/mdpaper-darwin-arm64.tar.gz"
+  version "2.4.0"
+  sha256 "225f738936f5c604a5b79fed6067325f66850d95fe648f55566c50af97834280"
   license "MPL-2.0"
 
   head do
